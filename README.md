@@ -62,16 +62,25 @@ python-roadmap/
 
 ## 🧪 Cómo correr los ejercicios y tests
 1. Clona el repositorio:
-bash
-git clone https://github.com/tu-usuario/python-roadmap.git
-cd python-roadmap
 
-2. Crea una rama para subir tus soluciones de los ejercicios y conceptos que entiendas de estos.
-bash
-git branch "nombre_de_la_rama"
+  bash
+  - git clone https://github.com/tu-usuario/python-roadmap.git
+  - cd python-roadmap
 
-3. Instalacion de dependencias o requerimeintos
-pip install -r requirements.txt
+2. Levanta un entorno virtual y para ello usa los siguientes comandos
+
+   cmd
+   - Crear el entorno virtual: python -m venv "nombre_del_entorno_virtual"
+   - Activar el entorno: nombre_del_entorno_virtual\Scripts\activate
+   
+3. Crea una rama para subir tus soluciones de los ejercicios y conceptos que entiendas de estos.
+
+  bash
+  - git branch "nombre_de_la_rama"
+
+4. Instalacion de dependencias o requerimeintos
+
+  - pip install -r requirements.txt
 
 🌱 Estado del Roadmap
 
@@ -80,6 +89,7 @@ pip install -r requirements.txt
 ⬜ = Pendiente
 
 Módulo | Progreso
+
 01 - Lógica | 🟡
 02 - Estructuras de Datos | ⬜
 03 - Algoritmos | ⬜
