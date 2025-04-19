@@ -80,7 +80,7 @@ python-roadmap/
 
 4. Instalacion de dependencias o requerimeintos
 
-  - pip install -r requirements.txt
+     - pip install -r requirements.txt
 
 ## 🌱 Estado del Roadmap
 
@@ -90,13 +90,13 @@ python-roadmap/
 
 ## 🗂️ Módulo | Progreso
 
-  01 - Lógica | 🟡
-  02 - Estructuras de Datos | ⬜
-  03 - Algoritmos | ⬜
-  04 - Diseño de Algoritmos | ⬜
-  05 - Patrones de Diseño | ⬜
-  06 - Arquitectura | ⬜
-  07 - Proyectos Finales | ⬜
+  - 01 - Lógica | 🟡
+  - 02 - Estructuras de Datos | ⬜
+  - 03 - Algoritmos | ⬜
+  - 04 - Diseño de Algoritmos | ⬜
+  - 05 - Patrones de Diseño | ⬜
+  - 06 - Arquitectura | ⬜
+  - 07 - Proyectos Finales | ⬜
 
 ## 📈 Objetivo Profesional
 
@@ -108,16 +108,13 @@ Este repositorio es parte de mi formación profesional. Aquí practico y compart
 
 ## 🧭 ¿Qué sigue?
 
-  ✅ Avanzar por los módulos
-  ✅ Documentar todo
-  ✅ Subir commits frecuentes
-  ✅ Compartir en LinkedIn o redes
+  - ✅ Avanzar por los módulos
+  - ✅ Documentar todo
+  - ✅ Subir commits frecuentes
+  - ✅ Compartir en LinkedIn o redes
 
-📬 Contacto
+## 📬 Contacto
 ¿Tienes sugerencias o quieres colaborar?
 
 📧 lord.lucio.viii@gmail.com
 🐙 GitHub: github.com/AyleTE
-
-Gracias por leer esto y espero te ayude como guia para que mejores en tu aprendizaje y mejorar tus habilidades.
-
