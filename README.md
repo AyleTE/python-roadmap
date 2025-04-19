@@ -63,55 +63,55 @@ python-roadmap/
 ## 🧪 Cómo correr los ejercicios y tests
 1. Clona el repositorio:
 
-  bash
-  - git clone https://github.com/tu-usuario/python-roadmap.git
-  - cd python-roadmap
+   bash
+    - git clone https://github.com/tu-usuario/python-roadmap.git
+    - cd python-roadmap
 
 2. Levanta un entorno virtual y para ello usa los siguientes comandos
 
    cmd
-   - Crear el entorno virtual: python -m venv "nombre_del_entorno_virtual"
-   - Activar el entorno: nombre_del_entorno_virtual\Scripts\activate
+     - Crear el entorno virtual: python -m venv "nombre_del_entorno_virtual"
+     - Activar el entorno: nombre_del_entorno_virtual\Scripts\activate
    
 3. Crea una rama para subir tus soluciones de los ejercicios y conceptos que entiendas de estos.
 
-  bash
-  - git branch "nombre_de_la_rama"
+   bash
+    - git branch "nombre_de_la_rama"
 
 4. Instalacion de dependencias o requerimeintos
 
   - pip install -r requirements.txt
 
-🌱 Estado del Roadmap
+## 🌱 Estado del Roadmap
 
-✅ = Completado
-🟡 = En proceso
-⬜ = Pendiente
+  ✅ = Completado
+  🟡 = En proceso
+  ⬜ = Pendiente
 
-Módulo | Progreso
+## 🗂️ Módulo | Progreso
 
-01 - Lógica | 🟡
-02 - Estructuras de Datos | ⬜
-03 - Algoritmos | ⬜
-04 - Diseño de Algoritmos | ⬜
-05 - Patrones de Diseño | ⬜
-06 - Arquitectura | ⬜
-07 - Proyectos Finales | ⬜
+  01 - Lógica | 🟡
+  02 - Estructuras de Datos | ⬜
+  03 - Algoritmos | ⬜
+  04 - Diseño de Algoritmos | ⬜
+  05 - Patrones de Diseño | ⬜
+  06 - Arquitectura | ⬜
+  07 - Proyectos Finales | ⬜
 
-📈 Objetivo Profesional
+## 📈 Objetivo Profesional
 
 Este repositorio es parte de mi formación profesional. Aquí practico y comparto conocimientos para:
 
-- Mejorar mi nivel como programador Python
-- Presentar proyectos reales a potenciales empleadores
-- Ayudar a otros desarrolladores a construir su propio roadmap
+  - Mejorar mi nivel como programador Python
+  - Presentar proyectos reales a potenciales empleadores
+  - Ayudar a otros desarrolladores a construir su propio roadmap
 
-🧭 ¿Qué sigue?
+## 🧭 ¿Qué sigue?
 
-✅ Avanzar por los módulos
-✅ Documentar todo
-✅ Subir commits frecuentes
-✅ Compartir en LinkedIn o redes
+  ✅ Avanzar por los módulos
+  ✅ Documentar todo
+  ✅ Subir commits frecuentes
+  ✅ Compartir en LinkedIn o redes
 
 📬 Contacto
 ¿Tienes sugerencias o quieres colaborar?
